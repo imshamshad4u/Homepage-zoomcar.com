@@ -1,0 +1,95 @@
+.header {
+    text-align: center;
+    position: inherit;
+}
+
+.cities {
+
+    border: 1px solid grey;
+    padding: 20px;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    display: inline-block;
+    margin-top: 25px;
+
+}
+
+h4 {
+    position: relative;
+
+    margin-top: 100px;
+    margin-bottom: 0px;
+    margin-left: 215px;
+    text-align: left;
+}
+
+#chandigarh {
+    width: inherit;
+    height: inherit;
+}
+
+#hyderabad {
+    width: inherit;
+    height: inherit;
+}
+
+#banglore {
+    width: inherit;
+    height: inherit;
+}
+
+#kolkata {
+    width: 84px;
+    height: 84px;
+}
+
+#mumbai {
+    width: 84px;
+    height: 84px;
+}
+
+#delhi {
+    width: 84px;
+    height: 84px;
+}
+
+#chennai {
+    width: 84px;
+    height: 84px;
+}
+
+#vadodra {
+    width: 84px;
+    height: 84px;
+}
+
+#pune {
+    width: 84px;
+    height: 84px;
+}
+
+.othercities a {
+    text-decoration: none;
+    color: #888888;
+    text-align: left;
+    padding: 7.5px;
+
+}
+
+.backgroundimage {
+    margin-top: 10px;
+    display: flex;
+    text-decoration: ivory;
+    width: inherit;
+    height: 200px;
+    background-image: url('../img/zoomcar.jpeg');
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+   
+}
+
+.para {
+    text-align: center;
+}
